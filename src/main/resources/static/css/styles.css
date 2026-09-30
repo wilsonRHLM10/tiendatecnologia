@@ -1,0 +1,58 @@
+body {
+    background: linear-gradient(135deg, #f4f6fb 0%, #eaf3ff 100%);
+    font-family: Arial, sans-serif;
+    color: #1f2a37;
+}
+
+.navbar {
+    background: #1d3557;
+}
+
+.hero {
+    background: linear-gradient(135deg, #2a6f97 0%, #1d3557 100%);
+    color: white;
+    border-radius: 18px;
+    padding: 2.5rem;
+    box-shadow: 0 8px 20px rgba(29, 53, 87, 0.2);
+}
+
+.card {
+    border: none;
+    border-radius: 14px;
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.06);
+}
+
+.table thead {
+    background: #0d6efd;
+    color: white;
+}
+
+.btn-primary {
+    background: #0d6efd;
+    border: none;
+}
+
+.btn-success {
+    background: #198754;
+    border: none;
+}
+
+.btn-warning {
+    background: #ffc107;
+    border: none;
+    color: #1f2a37;
+}
+
+.btn-danger {
+    background: #dc3545;
+    border: none;
+}
+
+.badge {
+    font-size: 0.9rem;
+}
+
+.form-container {
+    max-width: 700px;
+    margin: 0 auto;
+}
